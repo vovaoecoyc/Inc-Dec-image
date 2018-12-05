@@ -1,0 +1,15 @@
+.btnInc , .btnDec {
+  width: 80px;
+  height: 40px;
+}
+.btnInc {
+  margin-right: 10px;
+}
+.btnDec {
+  margin-left: 10px;
+}
+.imageOptions{
+  width: 150px;
+  height: 150px;
+  padding: 5px;
+}
